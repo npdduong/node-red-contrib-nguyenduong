@@ -1,0 +1,27 @@
+{
+  "name": "red-contrib-nguyenduong",
+  "version": "1.0.0",
+  "description": "node-RED first",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "node-red": {
+    "nodes": {
+      "lower-case": "node.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npdduong/node-red-contrib-nguyenduong.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "author": "npdduong",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/npdduong/node-red-contrib-nguyenduong/issues"
+  },
+  "homepage": "https://github.com/npdduong/node-red-contrib-nguyenduong#readme"
+}
